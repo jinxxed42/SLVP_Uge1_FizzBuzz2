@@ -23,5 +23,5 @@ if (test && result <= int.MaxValue && result > 0)
 }
 else
 {
-    Console.WriteLine("Hvad fanden har du gang i makker?!");
+    Console.WriteLine("Hvad har du gang i?!");
 }
